@@ -1,0 +1,7 @@
+com\example\Bank\repository\TRepository.class
+com\example\Bank\model\Bankaccount.class
+com\example\Bank\model\Transaction.class
+com\example\Bank\BankApplication.class
+com\example\Bank\repository\BRepository.class
+com\example\Bank\service\Bankservice.class
+com\example\Bank\controller\Bankcontroller.class
